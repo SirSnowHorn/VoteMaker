@@ -1,0 +1,2 @@
+# VoteMaker
+Business proposal.
